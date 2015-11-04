@@ -1,0 +1,63 @@
+{
+	"B2":"boubou",
+	"B3":
+		{"obligatoire":
+			{
+				"AP":{
+					"nom":"atelier pluridisciplinaire",
+					"lieu":"pole art",
+					"horaires":[[2,13,16],[5,9,12]]
+				},
+				"arts_nonEU":{
+					"nom":"arts non européens",
+					"lieu":"57, rue d'irlande",
+					"horaires":[[1,9,13]]
+				},
+				"philosophie_esthetique":{
+					"nom":"philosophie esthetique",
+					"lieu":"57, rue d'irlande",
+					"horaires":[[1,11,13]]
+				}
+			},
+		"theorique":
+			{
+			"psychanalyse": [[1,14,16]],
+			"théorie de la communication": [[1,16,18]],
+			"histoire de l'art":[[3,11,13]]
+		},
+		"technique":
+			{
+			"programmation":[[2,9,12]],
+			"création textuelle":[[4,10,12]],
+			"réseaux sociaux":[[4,9,12]],
+			"cinéma-vidéo":[[5,14,16]]
+		},
+		"options":
+			{
+			"arts numériques":[[4,14,20]],
+			"bande dessinée":[[2,16,19],[4,13,16]],
+			"cinéma d'animation":[[4,13,19]],
+			"communication visuelle et graphique":[[2,16,19],[4,16,19]],
+			"dessin - illustration":
+				{	
+					"dessin":[[2,16,19]],
+					"modèle vivant":[[4,16,19]]
+				},
+			"installation/performance":[[2,16,19],[3,14,19]],
+			"graphisme":[3,14,20],
+			"gravure bois":[[3,14,17],[4,16,19]],
+			"gravure metal":[[3,14,17],[4,13,20]],
+			"peinture":[[4,14,20]],
+			"photographie":[[3,14,17],[4,13,16]],
+			"sculpture":[[3,14,20]],
+			"sérigraphie":[[3,17,20],[4,13,18]],
+			"typographie":[[2,16,19],[3,9,11],[3,17,19],[4,13,16],[5,13,17]],
+			"vidéographie":
+				{
+					"narration":[3,14,20],
+					"art":[4,14,20]
+				}
+			}
+
+		}
+}
